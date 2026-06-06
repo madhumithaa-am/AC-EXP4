@@ -103,8 +103,8 @@ Tabulation
 
 
 Calculation
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/22885901-ff11-4756-bb8b-c871566cee55" />
 
-<img width="2560" height="4624" alt="IMG_20260606_000026_1~2" src="https://github.com/user-attachments/assets/f43b5c75-61fb-4019-bf56-f03e0b10bc13" />
 
 
 Frequency Deviation Practical = 3228.68 Hz
