@@ -107,11 +107,6 @@ Calculation
 
 
 
-Frequency Deviation Practical = 3228.68 Hz
-
-Modulation Index Practical	= 3.3
-
-Modulation Index Theoretical	=  3.5
 
 
 
